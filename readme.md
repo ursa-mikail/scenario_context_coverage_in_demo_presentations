@@ -23,7 +23,7 @@ By structuring the narrative this way, we can thoroughly examine the situation, 
 
 ![Scenario Context Coverage in Demo Presentations](https://mikail-eliyah.medium.com/scenario-context-coverage-in-demo-presentations-361ea5eae8fd)
 
-<img src="https://github.com/ursa-mikail/scenario_context_coverage_in_demo_presentations/blob/main/scenario_context_coverage_in_demo_presentations.png" alt="scenario_context_coverage_in_demo_presentations" width="500" height="200">
+<img src="https://github.com/ursa-mikail/scenario_context_coverage_in_demo_presentations/blob/main/scenario_context_coverage_in_demo_presentations.png" alt="scenario_context_coverage_in_demo_presentations" width="1000" height="200">
 
 <a href="https://mikail-eliyah.medium.com/the-architect-cb28b203b753">
     <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*haF301TdYsbUfKMUI_yw2A.png" alt="The Architect’s Tenets" width="200" height="300">
