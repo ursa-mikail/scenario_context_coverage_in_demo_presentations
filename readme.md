@@ -21,7 +21,9 @@ Possibilities : Each case is explored through various possibilities, where diff
 
 By structuring the narrative this way, we can thoroughly examine the situation, provide clear examples through scenarios, detail specific moments with scenes, and explore various outcomes with possibilities and cases.
 
-![Scenario Context Coverage in Demo Presentations](https://mikail-eliyah.medium.com/scenario-context-coverage-in-demo-presentations-361ea5eae8fd)
+<a href="https://mikail-eliyah.medium.com/scenario-context-coverage-in-demo-presentations-361ea5eae8fd">
+    Scenario Context Coverage in Demo Presentations
+</a>
 
 <img src="https://github.com/ursa-mikail/scenario_context_coverage_in_demo_presentations/blob/main/scenario_context_coverage_in_demo_presentations.png" alt="scenario_context_coverage_in_demo_presentations" width="1500" height="200">
 
