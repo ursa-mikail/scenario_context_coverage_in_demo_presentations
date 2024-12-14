@@ -16,7 +16,7 @@ Conditions: Scenarios often include specific conditions such as the time, locati
 Conditions: Scenes are characterized by the immediate circumstances, the interactions taking place, and the progression of events.
 
 ### Cases
-<b>Cases</b>: Different potential outcomes or variations that could occur within each scene.
+<b>Case</b>: Different potential outcomes or variations that could occur within each scene.
 Possibilities : Each case is explored through various possibilities, where different variables and conditions lead to different results. Case possibilities get people to consider multiple perspectives and potential consequences, ensuring a comprehensive understanding of the situation.
 
 <hr>
